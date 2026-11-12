@@ -1,6 +1,6 @@
 # Tienda Online API – DevOps Práctica
 
-**Autor:** TU_NOMBRE
+**Autor:** Iago Novo Iglesias
 
 ## Descripción
 
