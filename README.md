@@ -4,8 +4,8 @@
 
 ## Descripción
 
-API REST de una tienda online desarrollada en **Python** con **FastAPI** y **Pydantic**
-(proyecto de la Práctica 2 de Arquitectura de Software). Permite:
+API REST de una tienda online desarrollada en Python con FastAPI y Pydantic
+(proyecto de la Práctica 2). Permite:
 
 - Gestionar **usuarios** (clientes y administradores).
 - Gestionar **productos** (genéricos, electrónicos y ropa) y su stock.
