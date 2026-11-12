@@ -33,6 +33,13 @@ uvicorn main:app --reload
 
 Documentación Swagger: http://127.0.0.1:8000/docs
 
+## Docker
+
+```bash
+docker build -f dockerfile -t tienda-api .
+docker run -p 8000:8000 tienda-api
+```
+
 ## Flujo de trabajo Git
 
 - `main`: rama estable.
